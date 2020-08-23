@@ -181,7 +181,8 @@ if SETUP['model'] == 'bmusegan':
 #============================= Data Configuration ==============================
 #===============================================================================
 CONFIG['data'] = {
-    'training_data': None,
+    'training_data': '/content/AI_For_Music_Composition/' ,
+#    'training_data': None,
     'training_data_location': None,
 }
 
