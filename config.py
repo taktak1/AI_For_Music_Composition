@@ -181,7 +181,7 @@ if SETUP['model'] == 'bmusegan':
 #============================= Data Configuration ==============================
 #===============================================================================
 CONFIG['data'] = {
-    'training_data': '/content/AI_For_Music_Composition/' ,
+    'training_data': '/content/AI_For_Music_Composition/training_data/lastfm_alternative_8b_phrase.npy' ,
 #    'training_data': None,
     'training_data_location': None,
 }
