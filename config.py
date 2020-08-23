@@ -194,7 +194,7 @@ for key in ('training_data', 'training_data_location'):
 #=========================== Training Configuration ============================
 #===============================================================================
 CONFIG['train'] = {
-    'num_epoch': 20,
+    'num_epoch': 1,
     'verbose': None,
     'sample_along_training': None,
     'evaluate_along_training': None,
